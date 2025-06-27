@@ -49,7 +49,7 @@
   "homepage": "https://github.com/UmbrellaDocs/linkspector#readme",
   "dependencies": {
     "commander": "^14.0.0",
-    "dotenv": "^16.5.0",
+    "dotenv": "16.5.0",
     "github-slugger": "^2.0.0",
     "glob": "^11.0.2",
     "ignore": "^7.0.4",
